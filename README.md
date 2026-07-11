@@ -14,16 +14,11 @@
 
 </div>
 
-<!-- ============ ABOUT (terminal style) ============ -->
-```console
-om@thws:~$ whoami && cat status.log
-→ Om Borda — AI/ML engineer based in Würzburg, Germany
-→ MSc Artificial Intelligence @ THWS (2025–2027)
-→ BSc Computer Science & Engineering — GPA 9.10/10
-→ currently building: hierlos — hyperlocal event discovery
-→ focus: LLMs · RAG · Agentic AI · NLP · MLOps
-→ languages: English (C1) · German (B2) · Python (native)
-```
+<!-- ============ ASCII PORTRAIT + ABOUT (self-generated, self-hosted in this repo) ============ -->
+<div align="center">
+  <img src="assets/portrait.svg" width="340" alt="Animated ASCII portrait of Om Borda" />
+  <img src="assets/about.svg" width="420" alt="About Om Borda — terminal card" />
+</div>
 
 <!-- ============ TECH STACK ============ -->
 ### `~/stack`
