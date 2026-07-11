@@ -51,16 +51,9 @@
 <!-- ====== ANIMATED STATS ====== -->
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=omborda2002&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
 <img height="165" src="https://streak-stats.demolab.com/?user=omborda2002&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
-<br/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omborda2002&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=omborda2002&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="Trophies" />
+<!-- Stats card + top-languages will be re-added here pointing at the self-hosted instance -->
 
 </div>
 
