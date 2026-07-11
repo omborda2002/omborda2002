@@ -9,14 +9,13 @@
   <a href="https://omborda2002.showdata.online/"><img src="https://img.shields.io/badge/Portfolio-1a1b27?style=flat-square&logo=aboutdotme&logoColor=7AA2F7" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/omborda"><img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=flat-square&logo=linkedin&logoColor=7AA2F7" alt="LinkedIn" /></a>
   <a href="mailto:omborda2002@gmail.com"><img src="https://img.shields.io/badge/Email-1a1b27?style=flat-square&logo=gmail&logoColor=7AA2F7" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=omborda2002&label=visitors&color=1a1b27&style=flat-square" alt="Profile views" />
 </p>
 
 </div>
 
 <!-- ============ ASCII PORTRAIT + ABOUT (self-generated, self-hosted in this repo) ============ -->
 <div align="center">
-  <img src="assets/portrait.svg" width="340" alt="Animated ASCII portrait of Om Borda" />
+  <img src="assets/portrait.svg" width="380" alt="Animated ASCII portrait of Om Borda" />
   <img src="assets/about.svg" width="420" alt="About Om Borda — terminal card" />
 </div>
 
@@ -71,5 +70,5 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=footer" width="100%" alt="footer wave" />
+  <img src="assets/footer.svg" width="100%" alt="terminal sign-off" />
 </div>
